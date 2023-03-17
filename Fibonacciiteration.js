@@ -18,7 +18,5 @@ function fibonacci(n) {
 }
 
 
-console.log(fibonacci(0)); 
-console.log(fibonacci(1)); 
-console.log(fibonacci(5));
-console.log(fibonacci(10));
+
+console.log(fibonacci(7));
